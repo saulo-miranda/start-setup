@@ -112,4 +112,8 @@ sudo snap install go --classic
 
 sudo snap install intellij-idea-community --classic
 
+# Install typora
+
+sudo snap install typora
+
 echo "####### INSTALLATION FINISHED #######"
